@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sanket Narayan Bhosale
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Just Coding
+- 🌱 I’m currently Working as AI/ML Python Developer
 - 📫 How to reach me 8308743683/sanketnarayanbhosale@gmail.com
 
 <!---
